@@ -1,0 +1,9 @@
+{
+  "records": 9,
+  "companies": 3,
+  "currency": "USD",
+  "amount_unit": "millions",
+  "source_links_verified": "2026-10-06",
+  "dataset": "Frozen extract from annual reports published in 2025; not current data",
+  "validation": "schema, numeric values, duplicate keys, source attribution, period order, capex sign"
+}
