@@ -1,0 +1,26 @@
+{
+  "wmt_2025": {
+    "company": "Walmart Inc.",
+    "report": "FY2025 annual report / Form 10-K",
+    "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000021/wmt-20250131.htm/wmtexhibit991fy2510-k.htm",
+    "tables": "Consolidated Statements of Income; Consolidated Statements of Cash Flows; Free Cash Flow reconciliation",
+    "revenue_basis": "Total revenues, including membership and other income",
+    "period_note": "Fiscal years end January 31; no 52/53-week normalization applied"
+  },
+  "tgt_2024": {
+    "company": "Target Corporation",
+    "report": "FY2024 annual report / Form 10-K",
+    "url": "https://corporate.target.com/investors/annual/2024-annual-report/10-k-report/10-k-part-ii/item-8-financial-statements-and-supplementary-data",
+    "tables": "Consolidated Statements of Operations; Consolidated Statements of Cash Flows",
+    "revenue_basis": "Net Sales as presented in the FY2024 report, combining formerly separate sales and other revenue; comparative years use the same presentation",
+    "period_note": "FY2023 contains 53 weeks; FY2022 and FY2024 contain 52 weeks"
+  },
+  "cost_2025": {
+    "company": "Costco Wholesale Corporation",
+    "report": "FY2025 Form 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm",
+    "tables": "Consolidated Statements of Income; Consolidated Statements of Cash Flows",
+    "revenue_basis": "Total revenue, including membership fees",
+    "period_note": "FY2023 contains 53 weeks; FY2024 and FY2025 contain 52 weeks"
+  }
+}
