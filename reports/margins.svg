@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="460" viewBox="0 0 960 460">
+<style>text{font-family:Arial,sans-serif;fill:#111827}.t{font-size:24px;font-weight:700}.s{font-size:14px}.v{font-size:13px;font-weight:700}.axis{stroke:#9ca3af;stroke-width:1}</style>
+<rect width="960" height="460" fill="white"/>
+<text x="480" y="34" text-anchor="middle" class="t">Retail fundamentals · latest fiscal year</text>
+<text x="480" y="56" text-anchor="middle" class="s">Historical 2025 filings · percent of revenue</text>
+<g transform="translate(40,90)">
+<text x="135" y="0" text-anchor="middle" class="s">Operating margin</text><line x1="20" y1="260" x2="250" y2="260" class="axis"/>
+<rect x="45" y="109" width="45" height="151" fill="#2563eb"/><rect x="115" y="51" width="45" height="209" fill="#0d9488"/><rect x="185" y="88" width="45" height="172" fill="#d97706"/>
+<text x="67" y="102" text-anchor="middle" class="v">3.77%</text><text x="137" y="44" text-anchor="middle" class="v">5.22%</text><text x="207" y="81" text-anchor="middle" class="v">4.31%</text>
+<text x="67" y="282" text-anchor="middle" class="s">COST</text><text x="137" y="282" text-anchor="middle" class="s">TGT</text><text x="207" y="282" text-anchor="middle" class="s">WMT</text>
+</g>
+<g transform="translate(350,90)">
+<text x="135" y="0" text-anchor="middle" class="s">Operating cash flow / revenue</text><line x1="20" y1="260" x2="250" y2="260" class="axis"/>
+<rect x="45" y="115" width="45" height="145" fill="#2563eb"/><rect x="115" y="53" width="45" height="207" fill="#0d9488"/><rect x="185" y="99" width="45" height="161" fill="#d97706"/>
+<text x="67" y="108" text-anchor="middle" class="v">4.84%</text><text x="137" y="46" text-anchor="middle" class="v">6.91%</text><text x="207" y="92" text-anchor="middle" class="v">5.35%</text>
+<text x="67" y="282" text-anchor="middle" class="s">COST</text><text x="137" y="282" text-anchor="middle" class="s">TGT</text><text x="207" y="282" text-anchor="middle" class="s">WMT</text>
+</g>
+<g transform="translate(660,90)">
+<text x="135" y="0" text-anchor="middle" class="s">Free cash flow / revenue</text><line x1="20" y1="260" x2="250" y2="260" class="axis"/>
+<rect x="45" y="146" width="45" height="114" fill="#2563eb"/><rect x="115" y="92" width="45" height="168" fill="#0d9488"/><rect x="185" y="186" width="45" height="74" fill="#d97706"/>
+<text x="67" y="139" text-anchor="middle" class="v">2.85%</text><text x="137" y="85" text-anchor="middle" class="v">4.20%</text><text x="207" y="179" text-anchor="middle" class="v">1.86%</text>
+<text x="67" y="282" text-anchor="middle" class="s">COST</text><text x="137" y="282" text-anchor="middle" class="s">TGT</text><text x="207" y="282" text-anchor="middle" class="s">WMT</text>
+</g>
+<text x="480" y="430" text-anchor="middle" class="s">Fiscal year ends differ. FCF = operating cash flow − cash capital expenditure.</text>
+</svg>
