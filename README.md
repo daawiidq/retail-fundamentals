@@ -1,5 +1,7 @@
 # Retail Fundamentals Research
 
+**Companion project:** [Sector Portfolio Risk Lab](sector-risk-lab/) — 10-industry walk-forward allocation, transaction costs, drawdowns, VaR, and paired block-bootstrap uncertainty.
+
 **Why can free cash flow rise while operating performance weakens?** A small, reproducible company-analysis project comparing Walmart, Target, and Costco using historical annual-report data, Python, and SQLite.
 
 [Research note](reports/RESEARCH_NOTE.md) · [Calculated results](reports/SNAPSHOT.md) · [SQL](sql/metrics.sql) · [Sources](data/sources.json)

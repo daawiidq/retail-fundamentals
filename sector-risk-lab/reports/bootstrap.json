@@ -1,0 +1,12 @@
+{
+  "comparison": "Inverse volatility minus equal-weight CAGR",
+  "cost_bps": 10,
+  "block_months": 12,
+  "samples": 1000,
+  "seed": 20261007,
+  "percentile_95_interval": [
+    -0.011550447245548151,
+    0.0036213714501851396
+  ],
+  "note": "Conditional descriptive interval for realized paths, not a forecast or strategy-selection-adjusted inference."
+}

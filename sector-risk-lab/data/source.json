@@ -1,0 +1,27 @@
+{
+  "source_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/10_Industry_Portfolios_CSV.zip",
+  "source_name": "Kenneth R. French Data Library \u2014 10 Industry Portfolios",
+  "source_header": "This file was created using the 202608 CRSP database.",
+  "downloaded_utc": "2026-10-08T03:05:33.645292+00:00",
+  "archive_sha256": "ebd937a4b995d821867aeb956a96f09a666386f38fa82516b7d1767ee4a49ae5",
+  "extract_sha256": "fcabf79877fd7b5aa1bdcd01bdbef7c5afa1d30c908cb5fce814f4d6779e4099",
+  "table": "Average Value Weighted Returns -- Monthly",
+  "unit": "decimal monthly total returns",
+  "start": "2000-01",
+  "end": "2025-12",
+  "rows": 312,
+  "industries": [
+    "NoDur",
+    "Durbl",
+    "Manuf",
+    "Enrgy",
+    "HiTec",
+    "Telcm",
+    "Shops",
+    "Hlth",
+    "Utils",
+    "Other"
+  ],
+  "details_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library/det_10_ind_port.html",
+  "revision_note": "This is a current-vintage historical extract, not an as-of historical database."
+}
