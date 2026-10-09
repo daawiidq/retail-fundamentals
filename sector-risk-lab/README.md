@@ -10,7 +10,7 @@
 
 The companion [financial-statement project](../README.md) studies businesses. This independent module studies allocation and portfolio risk: signal timing, weight drift, turnover, trading costs, drawdowns, historical VaR, covariance-based risk contributions, and uncertainty around performance differences.
 
-This is an October 2026 personal research project built with AI-assisted coding. Results are historical simulations on research portfolios, not live trading or claimed internship work.
+Personal research project with AI-assisted development and analysis. Created in October 2026. Results are historical simulations on research portfolios, not live trading or claimed internship work.
 
 ## Research design
 
