@@ -1,0 +1,13 @@
+{
+  "companies": 20,
+  "annual_rows": 267,
+  "labeled_rows": 237,
+  "test_rows": 130,
+  "test_events": 42,
+  "excluded_annual_rows": 8,
+  "first_period": "2009-01-01",
+  "last_period": "2025-09-28",
+  "first_test_filed": "2018-02-08",
+  "last_test_filed": "2024-11-20",
+  "design_sha256": "c5f20df84242392f9b52704a40a83e3c394f99e4485883e73ce3b673642eeddd"
+}

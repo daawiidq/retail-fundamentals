@@ -1,4 +1,8 @@
-# Retail Fundamentals Research
+# Financial Research Projects
+
+**Featured research:** [Earnings Quality and Future Cash Flow](earnings-quality-lab/) — SEC filing extraction, 20-company annual panel, label-availability-aware prediction, model comparisons, and grouped uncertainty checks.
+
+## Retail Fundamentals Research
 
 **Companion project:** [Sector Portfolio Risk Lab](sector-risk-lab/) — 10-industry walk-forward allocation, transaction costs, drawdowns, VaR, and paired block-bootstrap uncertainty.
 

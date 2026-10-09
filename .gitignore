@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 reports/*.sqlite
+
+# SEC download caches and independent refreshes
+.cache/
+data_refresh/

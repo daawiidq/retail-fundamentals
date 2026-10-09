@@ -1,0 +1,35 @@
+{
+  "question": "Does the earnings-to-cash gap add predictive value for a material decline in next-year operating cash flow relative to assets?",
+  "created": "2026-10-09",
+  "status": "Specification written before the first model run; not an independently registered preregistration",
+  "frequency": "annual",
+  "source_cutoff": "2025-12-31",
+  "minimum_period_start": "2009-01-01",
+  "test_filing_years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "outcome": "next annual CFO/end-assets minus current annual CFO/end-assets < -0.02",
+  "controls": [
+    "cfo_assets",
+    "log_assets"
+  ],
+  "earnings_feature": "accruals_assets = (income - CFO) / end assets; income uses ProfitLoss, then NetIncomeLoss when absent, with tag recorded",
+  "models": "Training prevalence; standardized logistic controls; standardized logistic controls + accruals; depth-2 decision tree with accruals",
+  "primary_metric": "Brier score; lower is better",
+  "secondary_metrics": [
+    "ROC AUC",
+    "log loss",
+    "average precision"
+  ],
+  "model_selection": "None. Logistic C=1, balanced weights disabled; tree depth=2, minimum leaf=15, random state=20261009",
+  "training_rule": "Refit each January 1 using only observations whose outcome filing predates January 1",
+  "uncertainty": "2000 paired bootstrap resamples by company and separately by decision year; conditional on fitted predictions",
+  "cohort_warning": "Purposively selected currently familiar consumer companies, not a historical investable universe; survivorship and selection bias",
+  "coverage_adjustment_before_model_run": "Direct Liabilities tag absent for several issuers; omit leverage control rather than infer it. Include ProfitLoss with explicit NetIncomeLoss fallback for income coverage. Annual data chosen to avoid quarterly/YTD ambiguity."
+}

@@ -1,0 +1,185 @@
+{
+  "source": "SEC Company Facts",
+  "files": [
+    {
+      "ticker": "WMT",
+      "cik": 104169,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000104169.json",
+      "retrieved_utc": "2026-10-09T21:29:37.471072+00:00",
+      "raw_sha256": "54ec3fbf36dc203dd00a0333396b3df2b6695ecdf6cbb19b6ec41b053d86b517",
+      "extract_sha256": "28e6436e2e9ec8abd6a36dec9dd64ead3309b2d73af6dcf7a0f03f3a69a19c87",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "TGT",
+      "cik": 27419,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027419.json",
+      "retrieved_utc": "2026-10-09T21:31:20.439048+00:00",
+      "raw_sha256": "eb15a2cd524e99ff27675db78840d039ec4a68b9cc2dcb10accbcb299933a487",
+      "extract_sha256": "3bc2f0c0e15678d57b6d457b0a606025690f8ab6038d88ba34b726390a78e94e",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "COST",
+      "cik": 909832,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000909832.json",
+      "retrieved_utc": "2026-10-09T21:31:24.389691+00:00",
+      "raw_sha256": "b675ced201b27ede2b0d26ca6fd873befe96a1afa9679339a2d0b964187dcdff",
+      "extract_sha256": "8b812f1d29498d8213b64db3e34a85b6793e171c18400507b318342d61c82ff2",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "HD",
+      "cik": 354950,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
+      "retrieved_utc": "2026-10-09T21:31:28.470020+00:00",
+      "raw_sha256": "aaf03befa1695d87ce1252bc08ca278b65be63782e46dc0b2858aab7a32c1be2",
+      "extract_sha256": "1e6138dc9e9a13a80890c0279a6229b42c62b685d71132bf0ffc7464e1419570",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "LOW",
+      "cik": 60667,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000060667.json",
+      "retrieved_utc": "2026-10-09T21:31:32.192637+00:00",
+      "raw_sha256": "7912551d61433f5e7e863ac602ebf24ee1484699e10aa556534f0055fff2ea7d",
+      "extract_sha256": "c47995ef74c115916ffe71f0aa5bc8d924215df193c04a4e90b315039585efb1",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "KR",
+      "cik": 56873,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056873.json",
+      "retrieved_utc": "2026-10-09T21:31:41.133693+00:00",
+      "raw_sha256": "f960cd5977a109fbba07f6fbb5da02280c3c4b71e4f89e01f7e46bd4610fe1a0",
+      "extract_sha256": "ead208f224d219eb3437273b90459cee9fd9af988098c68bdcc31609e8d1a0e0",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "DG",
+      "cik": 29534,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000029534.json",
+      "retrieved_utc": "2026-10-09T21:31:46.943851+00:00",
+      "raw_sha256": "16157a14c6c91f04a8b3e89ccedfc91ee0d5ea6978f8c6ed1d25d8cfe73541cf",
+      "extract_sha256": "d3d745d628d8750c5aa9831620aaacca8333460d4ca4735bfa646da9151660aa",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "DLTR",
+      "cik": 935703,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000935703.json",
+      "retrieved_utc": "2026-10-09T21:32:07.228333+00:00",
+      "raw_sha256": "e848ce86b0df51740450fc079721862fb958621c0c62a59a739af96ff8bdb5ab",
+      "extract_sha256": "35acdd731b1b77bee44f4e3deedfaccecda52e6bb4efd25569cde35742a54757",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "BBY",
+      "cik": 764478,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000764478.json",
+      "retrieved_utc": "2026-10-09T21:32:11.559105+00:00",
+      "raw_sha256": "c9cd833d8edc99921ff5d5fb26d6b5b7ef2a2109ebbba7107fb1a4127c3c7149",
+      "extract_sha256": "86f42d8adafcad6edb7858b41e39b265b7b11cd57271e938524a44cf128fe0a8",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "TJX",
+      "cik": 109198,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
+      "retrieved_utc": "2026-10-09T21:32:19.227046+00:00",
+      "raw_sha256": "1b8f7be3fed954f682ae56ebe9c56a245f4df3640b92181a2d44d6e086a4905b",
+      "extract_sha256": "06f80a74bfa88b977815b8409e0d0c43191d04d156e96ae56b5711d0a212197e",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "ROST",
+      "cik": 745732,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000745732.json",
+      "retrieved_utc": "2026-10-09T21:32:23.007401+00:00",
+      "raw_sha256": "6310bb034c7b7b228799f757b5117d1e6a173af3ff6304b656e851f492ccfaf9",
+      "extract_sha256": "6e6b8d9dfd0a7ee9382b41372ab6ea6cf6338ceea54921b369e3f115d3c1dd5b",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "NKE",
+      "cik": 320187,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320187.json",
+      "retrieved_utc": "2026-10-09T21:32:27.490821+00:00",
+      "raw_sha256": "d7aeceae21e6649e163d195729849349b27d909ab1a6eb4630a7c0c227acd890",
+      "extract_sha256": "fbf29a67687f8b120d95fa4e812b2bc3b8fec8a249707f32fee2dcc782e60021",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "SBUX",
+      "cik": 829224,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json",
+      "retrieved_utc": "2026-10-09T21:32:33.556074+00:00",
+      "raw_sha256": "2488674b57020c5281665b0ff271a29da71da64a2c9fa66bec6a9118772970bb",
+      "extract_sha256": "9caef54b8ee4ac57455d3a6a9fbdc57a315f0997c25e7b56c15cbffce17fd84d",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "MCD",
+      "cik": 63908,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063908.json",
+      "retrieved_utc": "2026-10-09T21:32:38.156662+00:00",
+      "raw_sha256": "0394e814d75510be107679b026e2df6e5d02d4f2029166911aa4924f9556681f",
+      "extract_sha256": "989a8320dbf87cd2acfca741cd314c800eb6bb01b2c088d0f63c6e7fc41e97be",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "YUM",
+      "cik": 1041061,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001041061.json",
+      "retrieved_utc": "2026-10-09T21:32:43.753963+00:00",
+      "raw_sha256": "5562a1496decb21dc8129dff0af281d50da52344a638def297e879eda6f35bf9",
+      "extract_sha256": "006a4f3ce838b3490ffa996659a789db9a668318004c17a4eebffaf42d7ca3ea",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "PG",
+      "cik": 80424,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000080424.json",
+      "retrieved_utc": "2026-10-09T21:32:47.548890+00:00",
+      "raw_sha256": "606ad7056b611e91cfab9f7568b747404405772add188600efa5ccda5824f3d8",
+      "extract_sha256": "fc97f3c3446d464cedd9c1eb305d4ffeb609af416a76e7c4f09fda3a107fd29d",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "KO",
+      "cik": 21344,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json",
+      "retrieved_utc": "2026-10-09T21:32:51.547557+00:00",
+      "raw_sha256": "53d363a9aa3071406cda9857654358f4dca42e174a1defb8cc1ce9ad2a4c9e40",
+      "extract_sha256": "4a16edc2030688cb37edec1c2fc7dfda76f533f8b2d069457af6b28e8f68cff2",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "PEP",
+      "cik": 77476,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json",
+      "retrieved_utc": "2026-10-09T21:32:55.669858+00:00",
+      "raw_sha256": "c35234bfb4a1fe24cc1f3b47bdf61f7a46833428dc27070af7e8ca449a94a025",
+      "extract_sha256": "1021a5099140aac7fb52bc8ed87eadfbca007c121cf3001491e2ed03913dc8fe",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "CL",
+      "cik": 21665,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000021665.json",
+      "retrieved_utc": "2026-10-09T21:32:59.686748+00:00",
+      "raw_sha256": "450c2668961565047c7745ff5df5d38b40cc57d6940c48fe8f32dca13100f96d",
+      "extract_sha256": "51cab70a9229e7d98fdebd5914fc6c5336cc546a7bc4ac0c599e43a7ca033c34",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    },
+    {
+      "ticker": "KMB",
+      "cik": 55785,
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000055785.json",
+      "retrieved_utc": "2026-10-09T21:33:05.687820+00:00",
+      "raw_sha256": "20a44ed6a1f55fa51c786121735a8e3de8269d63c3584ad87844514756d04e18",
+      "extract_sha256": "bf40946cdfda2e94a6204c1466261965d854bb85654397a828f8e8a542ad43f3",
+      "extraction": "USD, four standard US-GAAP tags, original 10-K form, filed <= 2025-12-31, period end >= 2009-01-01"
+    }
+  ]
+}

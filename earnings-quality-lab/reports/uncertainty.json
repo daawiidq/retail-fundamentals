@@ -1,0 +1,26 @@
+[
+  {
+    "group": "ticker",
+    "clusters": 20,
+    "resamples": 2000,
+    "seed": 20261009,
+    "brier_difference_accruals_minus_controls": -0.007330427652540404,
+    "ci95": [
+      -0.025995479175446878,
+      0.009988236183345696
+    ],
+    "scope": "Conditional on fitted predictions; no model refitting, no two-way clustering or model-selection adjustment"
+  },
+  {
+    "group": "test_year",
+    "clusters": 7,
+    "resamples": 2000,
+    "seed": 20261009,
+    "brier_difference_accruals_minus_controls": -0.007330427652540404,
+    "ci95": [
+      -0.02935855952021718,
+      0.011655850712735977
+    ],
+    "scope": "Conditional on fitted predictions; no model refitting, no two-way clustering or model-selection adjustment"
+  }
+]
