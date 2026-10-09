@@ -10,7 +10,7 @@
 
 This project goes beyond a ratio dashboard. It reconstructs annual observations from specific SEC filing accessions, compares nested predictive models, enforces **outcome availability at training time**, and checks whether a claimed gain survives accounting-definition and target-denominator changes.
 
-Created in October 2026 as a personal project with AI-assisted implementation, analysis, and documentation. It is not past internship work, an independently validated investment strategy, or a claim of unaided authorship.
+Personal research project with AI-assisted development and analysis. Created in October 2026. It is not past internship work, an independently validated investment strategy, or a claim of unaided authorship.
 
 ## Current evidence
 
