@@ -75,4 +75,4 @@ Amounts are **USD millions**. Ratios in the output use **percentage points as th
 
 ## Development
 
-Created in October 2026 as a personal learning project with AI-assisted implementation and documentation. The committed outputs are reproducible from the bundled data. The next substantive extensions are a reviewed SEC-data ingestion layer and a larger company panel with explicit filing-availability dates.
+Personal research project with AI-assisted development and analysis. Created in October 2026. The committed outputs are reproducible from the bundled data. The next substantive extensions are a reviewed SEC-data ingestion layer and a larger company panel with explicit filing-availability dates.
